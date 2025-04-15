@@ -8,4 +8,4 @@ B. Evaluation On A Closed Test-Track with **CADRE** on **CMU AV**: https://drive
 
 C. Evaluation On Real-World Public Roadway Work Zones with **CADRE** on **CMU AV**: https://drive.google.com/drive/folders/1MotCTRz5Zf6E8V09_ka2X-E7b2oqY8oI?usp=drive_link
 
-Note: CADRE (Connected and Autonomous Driving Research and Engineering) is the name of the AV software stack developed in-house at CMU. 
+**Note**: **CADRE **(Connected and Autonomous Driving Research and Engineering) is the name of the AV software stack developed in-house at CMU. 
